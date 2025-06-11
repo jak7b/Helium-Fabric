@@ -11,15 +11,18 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/mechest/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.kuko.mechest.MeChest"
+          "net.kuko.mechest.MeChestMod"
+		],
+		"client": [
+			"net.kuko.mechest.MeChestModClient"
 		],
 		"fabric-datagen": [
-			"net.kuko.mechest.MeChestDataGenerator"
+			"net.kuko.mechest.MeChestModDataGenerator"
 		]
 	},
 	"mixins": [
