@@ -1,0 +1,19 @@
+{
+  "item.mechest.blackberry": "Blackberry",
+  "item.mechest.debug_item": "Debug Item",
+  "block.mechest.clear_glass": "Clear Glass",
+
+  "text.config.my-config.option.nestedObject.goofy.tooltip": [
+    "Just a ",
+    { "text": "S", "color": "#8000FF", "bold": true },
+    { "text": "i", "color": "#C00080", "bold": true },
+    { "text": "l", "color": "#FF0000", "bold": true },
+    { "text": "l", "color": "#F78000", "bold": true },
+    { "text": "y", "color": "#EFFF00", "bold": true },
+    " Option."
+  ],
+
+  "key.mechest.open_screen_java": "Open JavaMethod",
+  "key.mechest.open_screen_visual": "Open VisualMethod",
+  "category.mechest": "MeChest"
+}

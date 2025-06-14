@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mechest:block/debug_block" }
+  }
+}
